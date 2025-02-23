@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @zyichen6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+免责声明：
 
-<!---
-zyichen6/zyichen6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. 本程序仅限于查询用户名下已注册车辆的位置信息，用户不得查询他人车辆信息。如因查询他人车辆信息引发的任何法律责任与程序开发者无关。
+2. 本程序所提供的车辆位置信息仅限于用户查询自己车辆的停车状态，任何滥用或非法使用本程序的行为，开发者不承担任何责任。
+3. 用户需自行确保使用本程序时符合相关法律法规，且不得利用本程序从事任何非法活动。
+4. 开发者对于因使用本程序而产生的任何后果、损失、或违法行为不负任何责任。使用本程序即视为同意本免责声明。
+5. 如果您不接受本免责声明，请立即停止使用本程序。
